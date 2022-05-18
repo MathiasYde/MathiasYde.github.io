@@ -6,7 +6,6 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Mathias Yde</title>
-	<link rel="stylesheet" href="styles/tailwind.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,37 +15,48 @@
 		* {
 			font-family: 'Arimo', sans-serif;
 		}
-	</style>
+		</style>
+		<script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 <body class="flex h-screen">
 	<div class="flex flex-col items-stretch flex-1 sm:flex-row-reverse">
 		<div class="w-full h-2/6 sm:w-2/6 sm:h-full">
-			<img src="images/background.jpg" class="object-cover w-full h-full" alt="">
+			<img src="images/background.jpg" class="object-cover object-center w-full h-full" alt="">
 		</div>
 		<div class="flex flex-col items-center justify-center flex-1 bg-gradient-to-br from-yellow-200 to-red-300">
-			<div class="w-3/4 max-w-md p-4">
-				<h1 class="text-6xl font-bold">Mathias Yde</h1>
-				<i><span>Artist, programmer, gamer.</span></i><span> 🏳️‍🌈 | 🇩🇰</span>
-				<div class="my-2">
+			<div class="w-full max-w-md p-2 p-4">
+				<h1 class="text-6xl font-medium">Mathias Yde</h1>
+				<i><span>Artist, programmer, gamer.</span></i><span> 🏳️‍🌈 | 🇩🇰</span><br>
+				<content class="my-2">
 					<span>Hello, I'm Mathias Yde 🖐 A programmer and artist from Denmark.</span>
 					<span>I like to tell stories through drawings and solve problems with code.</span>
 					<span>Apex Legends & Overwatch gamer.</span>
-				</div>
+				</content>
 
 				<ul class="flex flex-row gap-4 mt-4">
-					<a href="https://github.com/MathiasYde"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt=""></a>
-					<a href="https://www.twitter.com/immathiasyde"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt=""></a>
-					<a href="https://www.youtube.com/channel/UCyEZRg8BQxzjZO2e3ElADYA"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt=""></a>
-					<a href="https://www.twitch.tv/immathiasyde"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" alt=""></a>
-					<a href="https://tapas.io/series/A-Sign-From-You/info"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tapas.svg" alt=""></a>
-					<a href="https://paypal.me/ImMathiasYde"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" alt=""></a>
+					<a href="https://github.com/MathiasYde"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github icon"></a>
+					<a href="https://www.twitter.com/immathiasyde"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter icon"></a>
+					<a href="https://www.youtube.com/channel/UCyEZRg8BQxzjZO2e3ElADYA"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="youtube icon"></a>
+					<a href="https://www.twitch.tv/immathiasyde"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" alt="twitch icon"></a>
+					<a href="https://tapas.io/series/A-Sign-From-You/info"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tapas.svg" alt="tapas icon"></a>
+					<a href="https://paypal.me/ImMathiasYde"><img class="w-6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" alt="paypal icon"></a>
+					
+					<div class="static md:relative group">
+						<img class="w-6" src="images/icons/mail.svg" alt="mail icon">
+						<div class="absolute z-10 hidden w-3/4 transition-opacity duration-500 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded opacity-0 md:w-auto top-1/2 md:top-6 left-1/2 md:left-0 md:translate-x-0 md:translate-y-0 group-hover:opacity-100 group-hover:block">
+							<content class="flex flex-col p-2 divide-y">
+								<a class="p-2" href="mailto: contact@mathiasyde.dk">🇺🇸 contact@mathiasyde.dk</a>
+								<a class="p-2" href="mailto: kontakt@mathiasyde.dk">🇩🇰 kontakt@mathiasyde.dk</a>
+							</content>
+						</div>
+					</div>
+					
 				</ul>
-				<p class="w-3/4 mt-1 text-sm text-left opacity-80">Made by hand with love.</p>
+				<p class="w-3/4 mt-2 text-sm text-left opacity-80">Made by hand with love and no JavaScript.</p>
 			</div>
 			
 		</div>
 	</div>
 </body>
-
 </html>
