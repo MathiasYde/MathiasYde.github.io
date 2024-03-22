@@ -1,7 +1,7 @@
 # Minecraft Fabric Mods and Datapacks
 
 ## Datapacks
-[terraLith](https://www.curseforge.com/minecraft/mc-mods/terralith)
+[Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 
 ## Fabric mods for performance
 [Client side noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks) \
