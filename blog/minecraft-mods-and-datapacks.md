@@ -30,7 +30,7 @@
 [Adaptive Brightness](https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness) \
 [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) \
 [Armor Hotswap](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap) \
-[Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) \
+[Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)
 
 ## Fabric mods for Technical players
 [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) \
