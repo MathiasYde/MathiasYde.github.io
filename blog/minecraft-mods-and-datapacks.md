@@ -22,7 +22,6 @@
 [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) \
 [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me) \
 [Auto Torch](https://www.curseforge.com/minecraft/mc-mods/auto-torch) \
-[Edit Sign](https://www.curseforge.com/minecraft/mc-mods/edit-sign) \
 [Auto Reconnect](https://www.curseforge.com/minecraft/mc-mods/autoreconnect) \
 [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) \
 [View Distance Fix](https://github.com/henkelmax/view-distance-fix) \
