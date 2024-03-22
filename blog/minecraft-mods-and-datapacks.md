@@ -1,45 +1,45 @@
 # Minecraft Fabric Mods and Datapacks
 
 ## Datapacks
-https://www.curseforge.com/minecraft/mc-mods/terralith
+[terraLith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 
 ## Fabric mods for performance
-https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks \
-https://modrinth.com/mod/ferrite-core \
-https://www.curseforge.com/minecraft/mc-mods/entityculling \
-https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities \
-https://github.com/TeamMidnightDust/CullLeaves \
-https://www.curseforge.com/minecraft/mc-mods/sodium \
-https://github.com/PaperMC/Starlight \
-https://www.curseforge.com/minecraft/mc-mods/lithium \
-https://www.curseforge.com/minecraft/mc-mods/fastchest \
-https://www.curseforge.com/minecraft/mc-mods/phosphor \
-https://www.curseforge.com/minecraft/mc-mods/indium
+[Client side noteblocks](https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks) \
+[Ferrite Core](https://modrinth.com/mod/ferrite-core) \
+[EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling) \
+[Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) \
+[Cull Leaves](https://github.com/TeamMidnightDust/CullLeaves) \
+[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) \
+[Starlight](https://github.com/PaperMC/Starlight) \
+[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) \
+[FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) \
+[Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) \
+[Indium](https://www.curseforge.com/minecraft/mc-mods/indium)
 
 ## Fabric mods for QoL (Quality of Life) improvements
-https://www.curseforge.com/minecraft/mc-mods/audio-output \
-https://www.curseforge.com/minecraft/mc-mods/couplings \
-https://www.curseforge.com/minecraft/mc-mods/antighost \
-https://www.curseforge.com/minecraft/mc-mods/auth-me \
-https://www.curseforge.com/minecraft/mc-mods/auto-torch \
-https://www.curseforge.com/minecraft/mc-mods/edit-sign \
-https://www.curseforge.com/minecraft/mc-mods/autoreconnect \
-https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights \
-https://github.com/henkelmax/view-distance-fix \
-https://www.curseforge.com/minecraft/mc-mods/armor-visibility \
-https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness \
-https://www.curseforge.com/minecraft/mc-mods/chat-heads \
-https://www.curseforge.com/minecraft/mc-mods/armor-hotswap \
-https://www.curseforge.com/minecraft/texture-packs/fresh-animations \
-https://www.curseforge.com/minecraft/mc-mods/supplementaries
+[Audio Output](https://www.curseforge.com/minecraft/mc-mods/audio-output) \
+[Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) \
+[AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) \
+[Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me) \
+[Auto Torch](https://www.curseforge.com/minecraft/mc-mods/auto-torch) \
+[Edit Sign](https://www.curseforge.com/minecraft/mc-mods/edit-sign) \
+[Auto Reconnect](https://www.curseforge.com/minecraft/mc-mods/autoreconnect) \
+[LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) \
+[View Distance Fix](https://github.com/henkelmax/view-distance-fix) \
+[Armor Visibility](https://www.curseforge.com/minecraft/mc-mods/armor-visibility) \
+[Adaptive Brightness](https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness) \
+[Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) \
+[Armor Hotswap](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap) \
+[Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) \
+[Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 
 ## Fabric mods for Technical players
-https://www.curseforge.com/minecraft/mc-mods/litematica \
-https://www.curseforge.com/minecraft/mc-mods/carpet \
-https://www.curseforge.com/minecraft/mc-mods/command-block-ide \
-https://www.curseforge.com/minecraft/mc-mods/tweakeroo \
-https://www.curseforge.com/minecraft/mc-mods/dynamic-fps \
-https://www.curseforge.com/minecraft/mc-mods/minihud \
-https://www.curseforge.com/minecraft/mc-mods/worldedit \
-https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie \
-https://www.curseforge.com/minecraft/mc-mods/critical-orientation \
+[Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) \
+[Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) \
+[Command Block IDE](https://www.curseforge.com/minecraft/mc-mods/command-block-ide) \
+[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) \
+[Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) \
+[MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) \
+[WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) \
+[Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) \
+[Critical Orientation](https://www.curseforge.com/minecraft/mc-mods/critical-orientation)
