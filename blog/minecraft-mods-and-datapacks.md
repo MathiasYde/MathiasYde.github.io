@@ -44,5 +44,5 @@
 [Critical Orientation](https://www.curseforge.com/minecraft/mc-mods/critical-orientation)
 
 ## Game changing mods
-[Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+[Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) \
 [Create Fabric](https://www.curseforge.com/minecraft/mc-mods/create-fabric)
