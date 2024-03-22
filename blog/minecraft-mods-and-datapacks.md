@@ -31,7 +31,6 @@
 [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) \
 [Armor Hotswap](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap) \
 [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) \
-[Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 
 ## Fabric mods for Technical players
 [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) \
@@ -43,3 +42,7 @@
 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) \
 [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) \
 [Critical Orientation](https://www.curseforge.com/minecraft/mc-mods/critical-orientation)
+
+## Game changing mods
+[Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+[Create Fabric](https://www.curseforge.com/minecraft/mc-mods/create-fabric)
